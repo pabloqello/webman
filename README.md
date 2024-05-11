@@ -1,45 +1,44 @@
 <div style="padding:18px;max-width: 1024px;margin:0 auto;background-color:#fff;color:#333">
 <h1>webman</h1>
 
-基于<a href="https://www.workerman.net" target="__blank">workerman</a>开发的超高性能PHP框架
+Un framework PHP de rendimiento ultra alto desarrollado sobre Workerman<a href="https://www.workerman.net" target="__blank">Workerman</a>
 
-
-<h1>学习</h1>
+<h1>Páginas</h1>
 
 <ul>
   <li>
-    <a href="https://www.workerman.net/webman" target="__blank">主页 / Home page</a>
+    <a href="https://www.workerman.net/webman" target="__blank">Página de Inicio / Home page</a>
   </li>
   <li>
-    <a href="https://webman.workerman.net" target="__blank">文档 / Document</a>
+    <a href="https://webman.workerman.net" target="__blank">Documentación / Document</a>
   </li>
   <li>
-    <a href="https://www.workerman.net/doc/webman/install.html" target="__blank">安装 / Install</a>
+    <a href="https://www.workerman.net/doc/webman/install.html" target="__blank">Instalación / Install</a>
   </li>
   <li>
-    <a href="https://www.workerman.net/questions" target="__blank">问答 / Questions</a>
+    <a href="https://www.workerman.net/questions" target="__blank">Preguntas / Questions</a>
   </li>
   <li>
-    <a href="https://www.workerman.net/apps" target="__blank">市场 / Apps</a>
+    <a href="https://www.workerman.net/apps" target="__blank">Extensiones / Apps</a>
   </li>
   <li>
-    <a href="https://www.workerman.net/sponsor" target="__blank">赞助 / Sponsors</a>
+    <a href="https://www.workerman.net/sponsor" target="__blank">Patrocinadores / Sponsors</a>
   </li>
   <li>
-    <a href="https://www.workerman.net/doc/webman/thanks.html" target="__blank">致谢 / Thanks</a>
+    <a href="https://www.workerman.net/doc/webman/thanks.html" target="__blank">Agradecimientos / Thanks</a>
   </li>
 </ul>
 
 <div style="float:left;padding-bottom:30px;">
 
-  <h1>赞助商</h1>
+  <h1>Patrocinadores</h1>
 
-  <h4>特别赞助</h4>
+  <h4>Patrocinio especial</h4>
   <a href="https://www.crmeb.com/?form=workerman" target="__blank">
     <img src="https://www.workerman.net/img/sponsors/6429/20230719111500.svg" width="200">
   </a>
 
-  <h4>铂金赞助</h4>
+  <h4>Patrocinio Platino</h4>
   <a href="https://www.fadetask.com/?from=workerman" target="__blank"><img src="https://www.workerman.net/img/sponsors/1/20230719084316.png" width="200"></a>
   <a href="https://www.yilianyun.net/?from=workerman" target="__blank" style="margin-left:20px;"><img src="https://www.workerman.net/img/sponsors/6218/20230720114049.png" width="200"></a>
 
